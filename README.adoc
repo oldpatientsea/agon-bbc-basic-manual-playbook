@@ -19,7 +19,7 @@ This repository contains an Antora playbook project for building the documentati
 
 The documentation site is built using {url-antora}[Antora].
 The content is pulled from the https://github.com/oldpatientsea/agon-bbc-basic-manual[Agon BBC BASIC Manual repository on GitHub].  
-This sources is defined in the Antora playbook file, [.path]_antora-playbook.yml_.
+This source is defined in the Antora playbook file, [.path]_antora-playbook.yml_.
 Each content source points to a folder in one or more branches that is structured as a documentation component, which Antora consumes.
 
 The UI for the site is hosted in a separate repository, {url-docs-ui}[asciidoctor-docs-ui].
