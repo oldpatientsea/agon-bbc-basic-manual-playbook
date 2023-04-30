@@ -38,8 +38,9 @@ If you are having issues with stale, cached content, pass the --fetch flag to pu
 
 To learn more, refer to the {url-antora-install}[installation instructions] in the Antora documentation.
 
-The command will generate a site which may be viewed offline.
+The command will generate a site in the build directory which may be viewed offline.
 
+The build directory should not be committed to this repository, and has been included in the .gitignore configuration file.
 
 == Copyright and License
 
