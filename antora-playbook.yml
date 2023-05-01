@@ -1,7 +1,7 @@
 site: 
     title: BBC BASIC (Z80) for the Agon Light 
     url: https://oldpatientsea.github.io
-    start_page: agon-bbc-basic-manual::index.adoc
+    start_page: agon-bbc-basic-manual::bbc1.adoc
 content:
     sources:
     - url: https://github.com/oldpatientsea/agon-bbc-basic-manual.git
